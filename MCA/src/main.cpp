@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : main.cpp
-// Authors     : Reut Kravchook 24178636 and Inbal Sion 204185060
+// Authors     : Amit Harari 311328892 and Danielle cohen 311240287
 // Description : This is the main of the Messenger Server Client
 //============================================================================
 
